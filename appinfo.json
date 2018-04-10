@@ -1,0 +1,11 @@
+{
+  "id": "com.monterail.monte-tv-webos",
+  "version": "0.0.1",
+  "vendor": "Monterail",
+  "type": "web",
+  "main": "index.html",
+  "title": "MonteTV",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png",
+  "uiRevision": 2
+}
